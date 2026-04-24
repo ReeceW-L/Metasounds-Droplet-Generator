@@ -11,5 +11,7 @@ Input Parameters
 ________________
 
 Amplitude ranges from 0.0 to 1.0, with 1.0 being loudest
+
 Rain Intensity ranges from 0.0 to 1.0, with 1.0 being the highest
+
 Surface ranges from 0.0 to 1.0, with 0.0 being soft and dull, 0.5 being water droplet like, and 1.0 being more metallic
