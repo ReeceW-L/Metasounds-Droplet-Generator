@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\plugins\\dropletgen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dropletgen\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\intermediate\\build\\win64\\x64\\blankmoduletest_ceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\plugins\\dropletgen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dropletgen\\definitions.dropletgen.h",
+            "m:\\unrealeng\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

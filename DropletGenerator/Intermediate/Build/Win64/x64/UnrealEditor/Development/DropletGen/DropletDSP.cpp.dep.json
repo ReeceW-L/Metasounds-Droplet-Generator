@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\plugins\\dropletgen\\source\\audiodsptemplate\\private\\dspprocessing\\dropletdsp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\intermediate\\build\\win64\\x64\\blankmoduletest_ceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\plugins\\dropletgen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dropletgen\\definitions.dropletgen.h",
+            "c:\\users\\rwl26\\documents\\unreal projects\\blankmoduletest_c\\plugins\\dropletgen\\source\\audiodsptemplate\\public\\dspprocessing\\dropletdsp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

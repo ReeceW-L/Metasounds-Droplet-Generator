@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DropletGen.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Intermediate/Build/Win64/x64/BlankModuleTest_CEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Plugins/DropletGen/Intermediate/Build/Win64/x64/UnrealEditor/Development/DropletGen/DropletGen.cpp.obj"
+"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Plugins/DropletGen/Intermediate/Build/Win64/x64/UnrealEditor/Development/DropletGen/DropletDSP.cpp.obj"
+"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Plugins/DropletGen/Intermediate/Build/Win64/x64/UnrealEditor/Development/DropletGen/MetasoundDropletGenNode.cpp.obj"
+"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Plugins/DropletGen/Intermediate/Build/Win64/x64/UnrealEditor/Development/DropletGen/PerModuleInline.gen.cpp.obj"
+"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Plugins/DropletGen/Intermediate/Build/Win64/x64/UnrealEditor/Development/DropletGen/Default.rc2.res"
+/OUT:"C:/Users/rwl26/Documents/Unreal Projects/BlankModuleTest_C/Plugins/DropletGen/Intermediate/Build/Win64/x64/UnrealEditor/Development/DropletGen/UnrealEditor-DropletGen.lib"
